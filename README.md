@@ -18,7 +18,7 @@
 <a href="https://github.com/CarineMS/Data_Science"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carinems&repo=Data_Science&theme=radical" />
 </a>
-<a href="https://github.com/carinems/github-readme-stats">
+<a href="https://github.com/CarineMS/git-powerbi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carinems&repo=git-powerbi&theme=radical" />
 </a>
 
