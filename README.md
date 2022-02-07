@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Atualmente estou obececada por videos de #asmr #refill #organizing.
 
 <div align="center">
-  <a href="https://github.com/carinems">
+  <a href="https://github.com/CarineMS">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carinems&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinems&layout=compact&langs_count=7&theme=radical"/>
  </div>
