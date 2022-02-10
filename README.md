@@ -2,7 +2,7 @@
 
 
 - 👩🏾‍💻 Estou atualmente procurando meu primeiro emprego na área de dados.
--  ☁ Estou estudando GCP, BigQuery e minha 2ª tilha de Ciência de Dados.
+-  ☁ Estou estudando minha 2ª tilha de Ciência de Dados e conciliando com GCP, BigQuery.
 - 💅🏾 Pronomes: ela/dela.
 - ⚡ Fun fact: Atualmente estou obececada por videos de #asmr #refill #organizing.
 
