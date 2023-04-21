@@ -1,10 +1,10 @@
 ### Muito prazer receber você aqui 🙋🏾‍♀️ Sinta-se em casa 
 
 
-- 👩🏾‍💻 Estou atualmente procurando meu primeiro emprego na área de dados.
--  ☁ Estou estudando minha 2ª tilha de Ciência de Dados e conciliando com GCP, BigQuery.
+- 👩🏾‍💻 Atualmente trabalho como Cientista de Dados Jr no Grupo Farmacéutico Raia Drogasil .
+-  ☁ Cursando a Pós Graduação em Intelifência Artificial e Computacional pela Universidade Federal de Ouro Preto.
 - 💅🏾 Pronomes: ela/dela.
-- ⚡ Fun fact: Atualmente estou obececada por videos de #asmr #refill #organizing.
+- ⚡ Fun fact: Atualmente estou obececada por livros da Coho e videos de rotina #working #organizing.
 
 <div align="center">
   <a href="https://github.com/CarineMS">
